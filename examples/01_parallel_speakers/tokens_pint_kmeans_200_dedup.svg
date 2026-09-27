@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="554" height="180" viewBox="0 0 554 180" font-family="ui-monospace, Menlo, monospace" font-size="11">
+<rect width="554" height="180" fill="white"/>
+<text x="36" y="15" font-size="12" fill="#222">PINT · kmeans_200 · deduplicated (one band per run)</text>
+<text x="4" y="40.0" fill="#333">p230</text>
+<rect x="36.0" y="22" width="22.0" height="28" fill="#e183d6" stroke="white" stroke-width="0.5"><title>id 3 × 35 frames (700 ms)</title></rect>
+<text x="47.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">3</text>
+<rect x="58.0" y="22" width="22.0" height="28" fill="#83cfe1" stroke="white" stroke-width="0.5"><title>id 85 × 2 frames (40 ms)</title></rect>
+<text x="69.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">85</text>
+<rect x="80.0" y="22" width="22.0" height="28" fill="#d05038" stroke="white" stroke-width="0.5"><title>id 68 × 3 frames (60 ms)</title></rect>
+<text x="91.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">68</text>
+<rect x="102.0" y="22" width="22.0" height="28" fill="#d08338" stroke="white" stroke-width="0.5"><title>id 60 × 4 frames (80 ms)</title></rect>
+<text x="113.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">60</text>
+<rect x="124.0" y="22" width="22.0" height="28" fill="#d08f38" stroke="white" stroke-width="0.5"><title>id 94 × 3 frames (60 ms)</title></rect>
+<text x="135.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">94</text>
+<rect x="146.0" y="22" width="22.0" height="28" fill="#3ad038" stroke="white" stroke-width="0.5"><title>id 96 × 6 frames (120 ms)</title></rect>
+<text x="157.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">96</text>
+<rect x="168.0" y="22" width="22.0" height="28" fill="#d03847" stroke="white" stroke-width="0.5"><title>id 110 × 1 frames (20 ms)</title></rect>
+<text x="179.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">110</text>
+<rect x="190.0" y="22" width="22.0" height="28" fill="#e1bd83" stroke="white" stroke-width="0.5"><title>id 39 × 2 frames (40 ms)</title></rect>
+<text x="201.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">39</text>
+<rect x="212.0" y="22" width="22.0" height="28" fill="#3887d0" stroke="white" stroke-width="0.5"><title>id 132 × 2 frames (40 ms)</title></rect>
+<text x="223.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">132</text>
+<rect x="234.0" y="22" width="22.0" height="28" fill="#e183a7" stroke="white" stroke-width="0.5"><title>id 63 × 2 frames (40 ms)</title></rect>
+<text x="245.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">63</text>
+<rect x="256.0" y="22" width="22.0" height="28" fill="#3839d0" stroke="white" stroke-width="0.5"><title>id 48 × 9 frames (180 ms)</title></rect>
+<text x="267.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">48</text>
+<rect x="278.0" y="22" width="22.0" height="28" fill="#e183b0" stroke="white" stroke-width="0.5"><title>id 173 × 5 frames (100 ms)</title></rect>
+<text x="289.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">173</text>
+<rect x="300.0" y="22" width="22.0" height="28" fill="#dd83e1" stroke="white" stroke-width="0.5"><title>id 79 × 2 frames (40 ms)</title></rect>
+<text x="311.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">79</text>
+<rect x="322.0" y="22" width="22.0" height="28" fill="#38d0b7" stroke="white" stroke-width="0.5"><title>id 4 × 1 frames (20 ms)</title></rect>
+<text x="333.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">4</text>
+<rect x="344.0" y="22" width="22.0" height="28" fill="#3893d0" stroke="white" stroke-width="0.5"><title>id 98 × 4 frames (80 ms)</title></rect>
+<text x="355.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">98</text>
+<rect x="366.0" y="22" width="22.0" height="28" fill="#d7e183" stroke="white" stroke-width="0.5"><title>id 99 × 1 frames (20 ms)</title></rect>
+<text x="377.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">99</text>
+<rect x="388.0" y="22" width="22.0" height="28" fill="#83bee1" stroke="white" stroke-width="0.5"><title>id 9 × 1 frames (20 ms)</title></rect>
+<text x="399.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">9</text>
+<rect x="410.0" y="22" width="22.0" height="28" fill="#e1db83" stroke="white" stroke-width="0.5"><title>id 175 × 7 frames (140 ms)</title></rect>
+<text x="421.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">175</text>
+<rect x="432.0" y="22" width="22.0" height="28" fill="#d03838" stroke="white" stroke-width="0.5"><title>id 0 × 4 frames (80 ms)</title></rect>
+<text x="443.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">0</text>
+<rect x="454.0" y="22" width="22.0" height="28" fill="#e19483" stroke="white" stroke-width="0.5"><title>id 157 × 4 frames (80 ms)</title></rect>
+<text x="465.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">157</text>
+<rect x="476.0" y="22" width="22.0" height="28" fill="#d04438" stroke="white" stroke-width="0.5"><title>id 34 × 3 frames (60 ms)</title></rect>
+<text x="487.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">34</text>
+<rect x="498.0" y="22" width="22.0" height="28" fill="#38d090" stroke="white" stroke-width="0.5"><title>id 46 × 4 frames (80 ms)</title></rect>
+<text x="509.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">46</text>
+<rect x="520.0" y="22" width="22.0" height="28" fill="#e183d6" stroke="white" stroke-width="0.5"><title>id 3 × 5 frames (100 ms)</title></rect>
+<text x="531.0" y="40.0" text-anchor="middle" fill="#111" font-size="11">3</text>
+<text x="4" y="74.0" fill="#333">p244</text>
+<rect x="36.0" y="56" width="22.0" height="28" fill="#e183d6" stroke="white" stroke-width="0.5"><title>id 3 × 43 frames (860 ms)</title></rect>
+<text x="47.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">3</text>
+<rect x="58.0" y="56" width="22.0" height="28" fill="#83cfe1" stroke="white" stroke-width="0.5"><title>id 85 × 1 frames (20 ms)</title></rect>
+<text x="69.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">85</text>
+<rect x="80.0" y="56" width="22.0" height="28" fill="#d05038" stroke="white" stroke-width="0.5"><title>id 68 × 4 frames (80 ms)</title></rect>
+<text x="91.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">68</text>
+<rect x="102.0" y="56" width="22.0" height="28" fill="#d08338" stroke="white" stroke-width="0.5"><title>id 60 × 3 frames (60 ms)</title></rect>
+<text x="113.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">60</text>
+<rect x="124.0" y="56" width="22.0" height="28" fill="#d08f38" stroke="white" stroke-width="0.5"><title>id 94 × 3 frames (60 ms)</title></rect>
+<text x="135.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">94</text>
+<rect x="146.0" y="56" width="22.0" height="28" fill="#a583e1" stroke="white" stroke-width="0.5"><title>id 129 × 2 frames (40 ms)</title></rect>
+<text x="157.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">129</text>
+<rect x="168.0" y="56" width="22.0" height="28" fill="#3ad038" stroke="white" stroke-width="0.5"><title>id 96 × 2 frames (40 ms)</title></rect>
+<text x="179.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">96</text>
+<rect x="190.0" y="56" width="22.0" height="28" fill="#e1bc83" stroke="white" stroke-width="0.5"><title>id 183 × 2 frames (40 ms)</title></rect>
+<text x="201.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">183</text>
+<rect x="212.0" y="56" width="22.0" height="28" fill="#e1bd83" stroke="white" stroke-width="0.5"><title>id 39 × 2 frames (40 ms)</title></rect>
+<text x="223.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">39</text>
+<rect x="234.0" y="56" width="22.0" height="28" fill="#3887d0" stroke="white" stroke-width="0.5"><title>id 132 × 2 frames (40 ms)</title></rect>
+<text x="245.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">132</text>
+<rect x="256.0" y="56" width="22.0" height="28" fill="#e183a7" stroke="white" stroke-width="0.5"><title>id 63 × 2 frames (40 ms)</title></rect>
+<text x="267.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">63</text>
+<rect x="278.0" y="56" width="22.0" height="28" fill="#3839d0" stroke="white" stroke-width="0.5"><title>id 48 × 7 frames (140 ms)</title></rect>
+<text x="289.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">48</text>
+<rect x="300.0" y="56" width="22.0" height="28" fill="#e183b0" stroke="white" stroke-width="0.5"><title>id 173 × 2 frames (40 ms)</title></rect>
+<text x="311.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">173</text>
+<rect x="322.0" y="56" width="22.0" height="28" fill="#3893d0" stroke="white" stroke-width="0.5"><title>id 98 × 4 frames (80 ms)</title></rect>
+<text x="333.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">98</text>
+<rect x="344.0" y="56" width="22.0" height="28" fill="#d7e183" stroke="white" stroke-width="0.5"><title>id 99 × 3 frames (60 ms)</title></rect>
+<text x="355.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">99</text>
+<rect x="366.0" y="56" width="22.0" height="28" fill="#e183d7" stroke="white" stroke-width="0.5"><title>id 147 × 1 frames (20 ms)</title></rect>
+<text x="377.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">147</text>
+<rect x="388.0" y="56" width="22.0" height="28" fill="#e1db83" stroke="white" stroke-width="0.5"><title>id 175 × 5 frames (100 ms)</title></rect>
+<text x="399.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">175</text>
+<rect x="410.0" y="56" width="22.0" height="28" fill="#e183b0" stroke="white" stroke-width="0.5"><title>id 173 × 1 frames (20 ms)</title></rect>
+<text x="421.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">173</text>
+<rect x="432.0" y="56" width="22.0" height="28" fill="#d03838" stroke="white" stroke-width="0.5"><title>id 0 × 2 frames (40 ms)</title></rect>
+<text x="443.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">0</text>
+<rect x="454.0" y="56" width="22.0" height="28" fill="#e19483" stroke="white" stroke-width="0.5"><title>id 157 × 5 frames (100 ms)</title></rect>
+<text x="465.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">157</text>
+<rect x="476.0" y="56" width="22.0" height="28" fill="#d04438" stroke="white" stroke-width="0.5"><title>id 34 × 4 frames (80 ms)</title></rect>
+<text x="487.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">34</text>
+<rect x="498.0" y="56" width="22.0" height="28" fill="#38d090" stroke="white" stroke-width="0.5"><title>id 46 × 3 frames (60 ms)</title></rect>
+<text x="509.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">46</text>
+<rect x="520.0" y="56" width="22.0" height="28" fill="#e183d6" stroke="white" stroke-width="0.5"><title>id 3 × 4 frames (80 ms)</title></rect>
+<text x="531.0" y="74.0" text-anchor="middle" fill="#111" font-size="11">3</text>
+<text x="4" y="108.0" fill="#333">p245</text>
+<rect x="36.0" y="90" width="22.0" height="28" fill="#e183d6" stroke="white" stroke-width="0.5"><title>id 3 × 43 frames (860 ms)</title></rect>
+<text x="47.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">3</text>
+<rect x="58.0" y="90" width="22.0" height="28" fill="#83cfe1" stroke="white" stroke-width="0.5"><title>id 85 × 2 frames (40 ms)</title></rect>
+<text x="69.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">85</text>
+<rect x="80.0" y="90" width="22.0" height="28" fill="#d05038" stroke="white" stroke-width="0.5"><title>id 68 × 2 frames (40 ms)</title></rect>
+<text x="91.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">68</text>
+<rect x="102.0" y="90" width="22.0" height="28" fill="#d08338" stroke="white" stroke-width="0.5"><title>id 60 × 4 frames (80 ms)</title></rect>
+<text x="113.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">60</text>
+<rect x="124.0" y="90" width="22.0" height="28" fill="#d08f38" stroke="white" stroke-width="0.5"><title>id 94 × 2 frames (40 ms)</title></rect>
+<text x="135.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">94</text>
+<rect x="146.0" y="90" width="22.0" height="28" fill="#3ad038" stroke="white" stroke-width="0.5"><title>id 96 × 5 frames (100 ms)</title></rect>
+<text x="157.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">96</text>
+<rect x="168.0" y="90" width="22.0" height="28" fill="#d03847" stroke="white" stroke-width="0.5"><title>id 110 × 1 frames (20 ms)</title></rect>
+<text x="179.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">110</text>
+<rect x="190.0" y="90" width="22.0" height="28" fill="#e1bd83" stroke="white" stroke-width="0.5"><title>id 39 × 1 frames (20 ms)</title></rect>
+<text x="201.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">39</text>
+<rect x="212.0" y="90" width="22.0" height="28" fill="#3887d0" stroke="white" stroke-width="0.5"><title>id 132 × 2 frames (40 ms)</title></rect>
+<text x="223.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">132</text>
+<rect x="234.0" y="90" width="22.0" height="28" fill="#e183a7" stroke="white" stroke-width="0.5"><title>id 63 × 2 frames (40 ms)</title></rect>
+<text x="245.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">63</text>
+<rect x="256.0" y="90" width="22.0" height="28" fill="#3839d0" stroke="white" stroke-width="0.5"><title>id 48 × 8 frames (160 ms)</title></rect>
+<text x="267.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">48</text>
+<rect x="278.0" y="90" width="22.0" height="28" fill="#e183b0" stroke="white" stroke-width="0.5"><title>id 173 × 4 frames (80 ms)</title></rect>
+<text x="289.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">173</text>
+<rect x="300.0" y="90" width="22.0" height="28" fill="#3893d0" stroke="white" stroke-width="0.5"><title>id 98 × 4 frames (80 ms)</title></rect>
+<text x="311.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">98</text>
+<rect x="322.0" y="90" width="22.0" height="28" fill="#d7e183" stroke="white" stroke-width="0.5"><title>id 99 × 3 frames (60 ms)</title></rect>
+<text x="333.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">99</text>
+<rect x="344.0" y="90" width="22.0" height="28" fill="#e183d7" stroke="white" stroke-width="0.5"><title>id 147 × 1 frames (20 ms)</title></rect>
+<text x="355.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">147</text>
+<rect x="366.0" y="90" width="22.0" height="28" fill="#e1db83" stroke="white" stroke-width="0.5"><title>id 175 × 6 frames (120 ms)</title></rect>
+<text x="377.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">175</text>
+<rect x="388.0" y="90" width="22.0" height="28" fill="#d03838" stroke="white" stroke-width="0.5"><title>id 0 × 2 frames (40 ms)</title></rect>
+<text x="399.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">0</text>
+<rect x="410.0" y="90" width="22.0" height="28" fill="#e19483" stroke="white" stroke-width="0.5"><title>id 157 × 4 frames (80 ms)</title></rect>
+<text x="421.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">157</text>
+<rect x="432.0" y="90" width="22.0" height="28" fill="#d04438" stroke="white" stroke-width="0.5"><title>id 34 × 3 frames (60 ms)</title></rect>
+<text x="443.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">34</text>
+<rect x="454.0" y="90" width="22.0" height="28" fill="#38d090" stroke="white" stroke-width="0.5"><title>id 46 × 3 frames (60 ms)</title></rect>
+<text x="465.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">46</text>
+<rect x="476.0" y="90" width="22.0" height="28" fill="#e183d6" stroke="white" stroke-width="0.5"><title>id 3 × 3 frames (60 ms)</title></rect>
+<text x="487.0" y="108.0" text-anchor="middle" fill="#111" font-size="11">3</text>
+<text x="4" y="142.0" fill="#333">p259</text>
+<rect x="36.0" y="124" width="22.0" height="28" fill="#e183d6" stroke="white" stroke-width="0.5"><title>id 3 × 32 frames (640 ms)</title></rect>
+<text x="47.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">3</text>
+<rect x="58.0" y="124" width="22.0" height="28" fill="#83cfe1" stroke="white" stroke-width="0.5"><title>id 85 × 3 frames (60 ms)</title></rect>
+<text x="69.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">85</text>
+<rect x="80.0" y="124" width="22.0" height="28" fill="#d05038" stroke="white" stroke-width="0.5"><title>id 68 × 2 frames (40 ms)</title></rect>
+<text x="91.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">68</text>
+<rect x="102.0" y="124" width="22.0" height="28" fill="#d08338" stroke="white" stroke-width="0.5"><title>id 60 × 4 frames (80 ms)</title></rect>
+<text x="113.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">60</text>
+<rect x="124.0" y="124" width="22.0" height="28" fill="#d08f38" stroke="white" stroke-width="0.5"><title>id 94 × 3 frames (60 ms)</title></rect>
+<text x="135.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">94</text>
+<rect x="146.0" y="124" width="22.0" height="28" fill="#3ad038" stroke="white" stroke-width="0.5"><title>id 96 × 6 frames (120 ms)</title></rect>
+<text x="157.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">96</text>
+<rect x="168.0" y="124" width="22.0" height="28" fill="#d03847" stroke="white" stroke-width="0.5"><title>id 110 × 1 frames (20 ms)</title></rect>
+<text x="179.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">110</text>
+<rect x="190.0" y="124" width="22.0" height="28" fill="#e1bd83" stroke="white" stroke-width="0.5"><title>id 39 × 2 frames (40 ms)</title></rect>
+<text x="201.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">39</text>
+<rect x="212.0" y="124" width="22.0" height="28" fill="#3887d0" stroke="white" stroke-width="0.5"><title>id 132 × 2 frames (40 ms)</title></rect>
+<text x="223.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">132</text>
+<rect x="234.0" y="124" width="22.0" height="28" fill="#e183a7" stroke="white" stroke-width="0.5"><title>id 63 × 2 frames (40 ms)</title></rect>
+<text x="245.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">63</text>
+<rect x="256.0" y="124" width="22.0" height="28" fill="#3839d0" stroke="white" stroke-width="0.5"><title>id 48 × 7 frames (140 ms)</title></rect>
+<text x="267.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">48</text>
+<rect x="278.0" y="124" width="22.0" height="28" fill="#e183b0" stroke="white" stroke-width="0.5"><title>id 173 × 2 frames (40 ms)</title></rect>
+<text x="289.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">173</text>
+<rect x="300.0" y="124" width="22.0" height="28" fill="#dd83e1" stroke="white" stroke-width="0.5"><title>id 79 × 1 frames (20 ms)</title></rect>
+<text x="311.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">79</text>
+<rect x="322.0" y="124" width="22.0" height="28" fill="#3893d0" stroke="white" stroke-width="0.5"><title>id 98 × 4 frames (80 ms)</title></rect>
+<text x="333.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">98</text>
+<rect x="344.0" y="124" width="22.0" height="28" fill="#d7e183" stroke="white" stroke-width="0.5"><title>id 99 × 4 frames (80 ms)</title></rect>
+<text x="355.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">99</text>
+<rect x="366.0" y="124" width="22.0" height="28" fill="#e183d7" stroke="white" stroke-width="0.5"><title>id 147 × 1 frames (20 ms)</title></rect>
+<text x="377.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">147</text>
+<rect x="388.0" y="124" width="22.0" height="28" fill="#e1db83" stroke="white" stroke-width="0.5"><title>id 175 × 5 frames (100 ms)</title></rect>
+<text x="399.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">175</text>
+<rect x="410.0" y="124" width="22.0" height="28" fill="#e183b0" stroke="white" stroke-width="0.5"><title>id 173 × 1 frames (20 ms)</title></rect>
+<text x="421.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">173</text>
+<rect x="432.0" y="124" width="22.0" height="28" fill="#d03838" stroke="white" stroke-width="0.5"><title>id 0 × 2 frames (40 ms)</title></rect>
+<text x="443.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">0</text>
+<rect x="454.0" y="124" width="22.0" height="28" fill="#e19483" stroke="white" stroke-width="0.5"><title>id 157 × 4 frames (80 ms)</title></rect>
+<text x="465.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">157</text>
+<rect x="476.0" y="124" width="22.0" height="28" fill="#d04438" stroke="white" stroke-width="0.5"><title>id 34 × 4 frames (80 ms)</title></rect>
+<text x="487.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">34</text>
+<rect x="498.0" y="124" width="22.0" height="28" fill="#38d090" stroke="white" stroke-width="0.5"><title>id 46 × 7 frames (140 ms)</title></rect>
+<text x="509.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">46</text>
+<rect x="520.0" y="124" width="22.0" height="28" fill="#e183d6" stroke="white" stroke-width="0.5"><title>id 3 × 7 frames (140 ms)</title></rect>
+<text x="531.0" y="142.0" text-anchor="middle" fill="#111" font-size="11">3</text>
+<line x1="36" y1="162" x2="542" y2="162" stroke="#888"/>
+<line x1="36.0" y1="162" x2="36.0" y2="166" stroke="#888"/>
+<text x="36.0" y="177" text-anchor="middle" fill="#555">0 runs</text>
+<line x1="58.0" y1="162" x2="58.0" y2="166" stroke="#888"/>
+<text x="58.0" y="177" text-anchor="middle" fill="#555">1</text>
+<line x1="80.0" y1="162" x2="80.0" y2="166" stroke="#888"/>
+<text x="80.0" y="177" text-anchor="middle" fill="#555">2</text>
+<line x1="102.0" y1="162" x2="102.0" y2="166" stroke="#888"/>
+<text x="102.0" y="177" text-anchor="middle" fill="#555">3</text>
+<line x1="124.0" y1="162" x2="124.0" y2="166" stroke="#888"/>
+<text x="124.0" y="177" text-anchor="middle" fill="#555">4</text>
+<line x1="146.0" y1="162" x2="146.0" y2="166" stroke="#888"/>
+<text x="146.0" y="177" text-anchor="middle" fill="#555">5</text>
+<line x1="168.0" y1="162" x2="168.0" y2="166" stroke="#888"/>
+<text x="168.0" y="177" text-anchor="middle" fill="#555">6</text>
+<line x1="190.0" y1="162" x2="190.0" y2="166" stroke="#888"/>
+<text x="190.0" y="177" text-anchor="middle" fill="#555">7</text>
+<line x1="212.0" y1="162" x2="212.0" y2="166" stroke="#888"/>
+<text x="212.0" y="177" text-anchor="middle" fill="#555">8</text>
+<line x1="234.0" y1="162" x2="234.0" y2="166" stroke="#888"/>
+<text x="234.0" y="177" text-anchor="middle" fill="#555">9</text>
+<line x1="256.0" y1="162" x2="256.0" y2="166" stroke="#888"/>
+<text x="256.0" y="177" text-anchor="middle" fill="#555">10</text>
+<line x1="278.0" y1="162" x2="278.0" y2="166" stroke="#888"/>
+<text x="278.0" y="177" text-anchor="middle" fill="#555">11</text>
+<line x1="300.0" y1="162" x2="300.0" y2="166" stroke="#888"/>
+<text x="300.0" y="177" text-anchor="middle" fill="#555">12</text>
+<line x1="322.0" y1="162" x2="322.0" y2="166" stroke="#888"/>
+<text x="322.0" y="177" text-anchor="middle" fill="#555">13</text>
+<line x1="344.0" y1="162" x2="344.0" y2="166" stroke="#888"/>
+<text x="344.0" y="177" text-anchor="middle" fill="#555">14</text>
+<line x1="366.0" y1="162" x2="366.0" y2="166" stroke="#888"/>
+<text x="366.0" y="177" text-anchor="middle" fill="#555">15</text>
+<line x1="388.0" y1="162" x2="388.0" y2="166" stroke="#888"/>
+<text x="388.0" y="177" text-anchor="middle" fill="#555">16</text>
+<line x1="410.0" y1="162" x2="410.0" y2="166" stroke="#888"/>
+<text x="410.0" y="177" text-anchor="middle" fill="#555">17</text>
+<line x1="432.0" y1="162" x2="432.0" y2="166" stroke="#888"/>
+<text x="432.0" y="177" text-anchor="middle" fill="#555">18</text>
+<line x1="454.0" y1="162" x2="454.0" y2="166" stroke="#888"/>
+<text x="454.0" y="177" text-anchor="middle" fill="#555">19</text>
+<line x1="476.0" y1="162" x2="476.0" y2="166" stroke="#888"/>
+<text x="476.0" y="177" text-anchor="middle" fill="#555">20</text>
+<line x1="498.0" y1="162" x2="498.0" y2="166" stroke="#888"/>
+<text x="498.0" y="177" text-anchor="middle" fill="#555">21</text>
+<line x1="520.0" y1="162" x2="520.0" y2="166" stroke="#888"/>
+<text x="520.0" y="177" text-anchor="middle" fill="#555">22</text>
+<line x1="542.0" y1="162" x2="542.0" y2="166" stroke="#888"/>
+<text x="542.0" y="177" text-anchor="middle" fill="#555">23</text>
+</svg>

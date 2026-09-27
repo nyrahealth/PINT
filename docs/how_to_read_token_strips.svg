@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1038" height="414" viewBox="0 0 1038 414" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">
+<rect width="1038" height="414" fill="white"/>
+<text x="16" y="26" font-size="16" font-weight="600" fill="#1a1a2e">How to read a token strip</text>
+<text x="16" y="47" fill="#555">0.64–1.06 s of speaker p230 saying “Please call Stella.”, PINT · kmeans_200 (ids 0–199)</text>
+<circle cx="28" cy="93.0" r="11" fill="#1a1a2e"/>
+<text x="28" y="97.5" text-anchor="middle" fill="white" font-size="12" font-weight="600">1</text>
+<text x="48" y="90.0" font-weight="600" fill="#1a1a2e">The encoder gives one id</text>
+<text x="48" y="107.0" font-size="12" fill="#555">per 20 ms of audio (a frame)</text>
+<rect x="300.0" y="78" width="34.0" height="30" fill="#e183d6" stroke="white" stroke-width="1"/>
+<text x="317.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">3</text>
+<rect x="334.0" y="78" width="34.0" height="30" fill="#e183d6" stroke="white" stroke-width="1"/>
+<text x="351.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">3</text>
+<rect x="368.0" y="78" width="34.0" height="30" fill="#e183d6" stroke="white" stroke-width="1"/>
+<text x="385.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">3</text>
+<rect x="402.0" y="78" width="34.0" height="30" fill="#83cfe1" stroke="white" stroke-width="1"/>
+<text x="419.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">85</text>
+<rect x="436.0" y="78" width="34.0" height="30" fill="#83cfe1" stroke="white" stroke-width="1"/>
+<text x="453.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">85</text>
+<rect x="470.0" y="78" width="34.0" height="30" fill="#d05038" stroke="white" stroke-width="1"/>
+<text x="487.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">68</text>
+<rect x="504.0" y="78" width="34.0" height="30" fill="#d05038" stroke="white" stroke-width="1"/>
+<text x="521.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">68</text>
+<rect x="538.0" y="78" width="34.0" height="30" fill="#d05038" stroke="white" stroke-width="1"/>
+<text x="555.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">68</text>
+<rect x="572.0" y="78" width="34.0" height="30" fill="#d08338" stroke="white" stroke-width="1"/>
+<text x="589.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">60</text>
+<rect x="606.0" y="78" width="34.0" height="30" fill="#d08338" stroke="white" stroke-width="1"/>
+<text x="623.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">60</text>
+<rect x="640.0" y="78" width="34.0" height="30" fill="#d08338" stroke="white" stroke-width="1"/>
+<text x="657.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">60</text>
+<rect x="674.0" y="78" width="34.0" height="30" fill="#d08338" stroke="white" stroke-width="1"/>
+<text x="691.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">60</text>
+<rect x="708.0" y="78" width="34.0" height="30" fill="#d08f38" stroke="white" stroke-width="1"/>
+<text x="725.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">94</text>
+<rect x="742.0" y="78" width="34.0" height="30" fill="#d08f38" stroke="white" stroke-width="1"/>
+<text x="759.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">94</text>
+<rect x="776.0" y="78" width="34.0" height="30" fill="#d08f38" stroke="white" stroke-width="1"/>
+<text x="793.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">94</text>
+<rect x="810.0" y="78" width="34.0" height="30" fill="#3ad038" stroke="white" stroke-width="1"/>
+<text x="827.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">96</text>
+<rect x="844.0" y="78" width="34.0" height="30" fill="#3ad038" stroke="white" stroke-width="1"/>
+<text x="861.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">96</text>
+<rect x="878.0" y="78" width="34.0" height="30" fill="#3ad038" stroke="white" stroke-width="1"/>
+<text x="895.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">96</text>
+<rect x="912.0" y="78" width="34.0" height="30" fill="#3ad038" stroke="white" stroke-width="1"/>
+<text x="929.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">96</text>
+<rect x="946.0" y="78" width="34.0" height="30" fill="#3ad038" stroke="white" stroke-width="1"/>
+<text x="963.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">96</text>
+<rect x="980.0" y="78" width="34.0" height="30" fill="#3ad038" stroke="white" stroke-width="1"/>
+<text x="997.0" y="97.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">96</text>
+<path d="M404 113 v4 h30 v-4" fill="none" stroke="#888"/><text x="419.0" y="130" text-anchor="middle" font-size="11" fill="#555">20 ms</text>
+<circle cx="28" cy="183.0" r="11" fill="#1a1a2e"/>
+<text x="28" y="187.5" text-anchor="middle" fill="white" font-size="12" font-weight="600">2</text>
+<text x="48" y="180.0" font-weight="600" fill="#1a1a2e">Repeats merge into one band</text>
+<text x="48" y="197.0" font-size="12" fill="#555">its width is how long the id lasts</text>
+<rect x="300.0" y="168" width="102.0" height="30" fill="#e183d6" stroke="white" stroke-width="1"/>
+<text x="351.0" y="187.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">3</text>
+<text x="351.0" y="213" text-anchor="middle" font-size="11" fill="#555">60 ms</text>
+<line x1="300.0" y1="108" x2="300.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<line x1="402.0" y1="108" x2="402.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="402.0" y="168" width="68.0" height="30" fill="#83cfe1" stroke="white" stroke-width="1"/>
+<text x="436.0" y="187.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">85</text>
+<text x="436.0" y="213" text-anchor="middle" font-size="11" fill="#555">40 ms</text>
+<line x1="402.0" y1="108" x2="402.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<line x1="470.0" y1="108" x2="470.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="470.0" y="168" width="102.0" height="30" fill="#d05038" stroke="white" stroke-width="1"/>
+<text x="521.0" y="187.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">68</text>
+<text x="521.0" y="213" text-anchor="middle" font-size="11" fill="#555">60 ms</text>
+<line x1="470.0" y1="108" x2="470.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<line x1="572.0" y1="108" x2="572.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="572.0" y="168" width="136.0" height="30" fill="#d08338" stroke="white" stroke-width="1"/>
+<text x="640.0" y="187.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">60</text>
+<text x="640.0" y="213" text-anchor="middle" font-size="11" fill="#555">80 ms</text>
+<line x1="572.0" y1="108" x2="572.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<line x1="708.0" y1="108" x2="708.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="708.0" y="168" width="102.0" height="30" fill="#d08f38" stroke="white" stroke-width="1"/>
+<text x="759.0" y="187.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">94</text>
+<text x="759.0" y="213" text-anchor="middle" font-size="11" fill="#555">60 ms</text>
+<line x1="708.0" y1="108" x2="708.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<line x1="810.0" y1="108" x2="810.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="810.0" y="168" width="204.0" height="30" fill="#3ad038" stroke="white" stroke-width="1"/>
+<text x="912.0" y="187.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">96</text>
+<text x="912.0" y="213" text-anchor="middle" font-size="11" fill="#555">120 ms</text>
+<line x1="810.0" y1="108" x2="810.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<line x1="1014.0" y1="108" x2="1014.0" y2="168" stroke="#bbb" stroke-dasharray="2 3"/>
+<circle cx="28" cy="277.0" r="11" fill="#1a1a2e"/>
+<text x="28" y="281.5" text-anchor="middle" fill="white" font-size="12" font-weight="600">3</text>
+<text x="48" y="274.0" font-weight="600" fill="#1a1a2e">Deduplicated: one box per band</text>
+<text x="48" y="291.0" font-size="12" fill="#555">timing drops out, only the order stays</text>
+<rect x="300.0" y="262" width="34.0" height="30" fill="#e183d6" stroke="white" stroke-width="1"/>
+<text x="317.0" y="281.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">3</text>
+<line x1="351.0" y1="218" x2="317.0" y2="262" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="334.0" y="262" width="34.0" height="30" fill="#83cfe1" stroke="white" stroke-width="1"/>
+<text x="351.0" y="281.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">85</text>
+<line x1="436.0" y1="218" x2="351.0" y2="262" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="368.0" y="262" width="34.0" height="30" fill="#d05038" stroke="white" stroke-width="1"/>
+<text x="385.0" y="281.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">68</text>
+<line x1="521.0" y1="218" x2="385.0" y2="262" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="402.0" y="262" width="34.0" height="30" fill="#d08338" stroke="white" stroke-width="1"/>
+<text x="419.0" y="281.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">60</text>
+<line x1="640.0" y1="218" x2="419.0" y2="262" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="436.0" y="262" width="34.0" height="30" fill="#d08f38" stroke="white" stroke-width="1"/>
+<text x="453.0" y="281.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">94</text>
+<line x1="759.0" y1="218" x2="453.0" y2="262" stroke="#bbb" stroke-dasharray="2 3"/>
+<rect x="470.0" y="262" width="34.0" height="30" fill="#3ad038" stroke="white" stroke-width="1"/>
+<text x="487.0" y="281.5" text-anchor="middle" fill="#111" font-family="ui-monospace, Menlo, monospace" font-size="12">96</text>
+<line x1="912.0" y1="218" x2="487.0" y2="262" stroke="#bbb" stroke-dasharray="2 3"/>
+<text x="522" y="275" font-size="12" fill="#555">21 frames → 6 ids: a fast and a slow</text><text x="522" y="291" font-size="12" fill="#555">speaker now line up box for box</text>
+<line x1="16" y1="316" x2="1022" y2="316" stroke="#e3e3e3"/>
+<rect x="16" y="325" width="14" height="14" fill="#3ad038"/><rect x="32" y="325" width="14" height="14" fill="#3ad038"/><text x="54" y="336" fill="#333"><tspan font-weight="600">Same color = same id</tspan>, in every row and every figure of one model. The number on a band is the id.</text>
+<rect x="16" y="349" width="30" height="14" fill="#e183d6"/><text x="54" y="360" fill="#333"><tspan font-weight="600">Id 3</tspan> is what PINT outputs for silence (leading and trailing pause).</text>
+<text x="16" y="386" fill="#333"><tspan font-weight="600">Rows of one figure say the same words</tspan>: the more their colors match, the less the ids depend on who speaks or how it was recorded.</text>
+</svg>
